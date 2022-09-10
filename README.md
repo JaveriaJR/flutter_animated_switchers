@@ -50,7 +50,7 @@ FlutterAnimatedSwitcher(
  
 ## Example Images:
  
- <img src="https://github.com/JaveriaJR/bluetooth_advanced/blob/main/example_app1.png?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/bluetooth_advanced/blob/main/example_app1.png?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/bluetooth_advanced/blob/main/example_app1.png?raw=true" width="180" />  <img src="https://imgur.com/5Yu89Sb.png" width="180" />  <img src="https://imgur.com/Vh6Uf0N.png" width="180" />
+ <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styleone.mp4?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styletwo.mp4?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/stylethree.mp4?raw=true" width="180" />  <img src="https://imgur.com/5Yu89Sb.png" width="180" />  <img src="https://imgur.com/Vh6Uf0N.png" width="180" />
  
 
 
