@@ -45,21 +45,27 @@ FlutterAnimatedSwitcher(
 )
 ```
 
-
-[Click here for more Example](https://pub.dev/packages/flutter_animated_switchers/example)
- 
 ## Example Images:
+- Example Gif/Mp4 files for review are as below: (wait while its loading)
+
  
-<video width="190"  autoplay>
-  <source src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styleone.mp4?raw=true" type="video/mp4"> 
-Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/112107681/189474932-f2b5a8f5-02a3-4a62-9a16-04aacfa9a3a5.mp4 
 
- <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styleone.mp4?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styletwo.mp4?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/stylethree.mp4?raw=true" width="180" />  <img src="https://imgur.com/5Yu89Sb.png" width="180" />  <img src="https://imgur.com/Vh6Uf0N.png" width="180" />
- 
+https://user-images.githubusercontent.com/112107681/189474936-f5477589-750a-45b0-a1eb-3ce0766a1c1c.mp4
+
+https://user-images.githubusercontent.com/112107681/189474917-26865164-572f-4437-9db7-3bb9014e3b11.mp4
+
+https://user-images.githubusercontent.com/112107681/189474953-1e52225e-449f-4651-b2ba-8edd536c11f0.mp4
+
+https://user-images.githubusercontent.com/112107681/189474954-a9cf0ccb-857f-4273-b89a-03f2e7c500ad.mp4 
 
 
-Created by [Javeria Iffat](https://www.linkedin.com/in/javeria-iffat/)
+
+## Important URL
+
+- [PUBDEV URL](https://pub.dev/packages/flutter_animated_switchers/example)
+
+- [GITHUB URL](https://github.com/JaveriaJR/flutter_animated_switchers/tree/main/example)
 
 
 ## FAQ
