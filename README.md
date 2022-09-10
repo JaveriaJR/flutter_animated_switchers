@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/112107681/189474954-a9cf0ccb-857f-4273
 
 ## Important URL
 
-- [PUBDEV URL](https://pub.dev/packages/flutter_animated_switchers/example)
+- [PUBDEV URL](https://pub.dev/packages/flutter_animated_switchers)
 
 - [GITHUB URL](https://github.com/JaveriaJR/flutter_animated_switchers/tree/main/example)
 
