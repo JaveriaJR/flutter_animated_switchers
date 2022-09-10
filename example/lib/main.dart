@@ -16,16 +16,15 @@ class _MyAppState extends State<MyApp> {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
       home: MyHome(),
     );
   }
 }
 
 class MyHome extends StatefulWidget {
-  MyHome({Key? key}) : super(key: key);
+  const MyHome({Key? key}) : super(key: key);
 
   @override
   State<MyHome> createState() => _MyHomeState();
@@ -40,34 +39,41 @@ class _MyHomeState extends State<MyHome> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
-      appBar: AppBar(
-        backgroundColor: Colors.purple,
-        title: const Text("Flutter Animated Switcher")),
+      backgroundColor: Colors.purple.shade50,
+      appBar: AppBar( 
+          backgroundColor: Colors.purple,
+          title: const Text("Flutter Animated Switchers")),
       body: Container(
         height: MediaQuery.of(context).size.height,
         width: MediaQuery.of(context).size.width,
-        child: SingleChildScrollView(
-          child: Column(
-            children: const [
-              SizedBox(height: 50),
-              FlutterAnimatedSwitcher(
-                switcherType: SwitcherType.styleOne,
-              ),
-              FlutterAnimatedSwitcher(
-                switcherType: SwitcherType.styleTwo,
-              ),
-              FlutterAnimatedSwitcher(
-                switcherType: SwitcherType.styleThree,
-              ),
-              FlutterAnimatedSwitcher(
-                switcherType: SwitcherType.styleFour,
-              ),
-              FlutterAnimatedSwitcher(
-                switcherType: SwitcherType.styleFive,
-              ),
-            ],
-          ),
+        alignment: Alignment.center,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const FlutterAnimatedSwitcher(
+              switcherType: SwitcherType.styleOne,
+            ),
+            const FlutterAnimatedSwitcher(
+              switcherType: SwitcherType.styleTwo,
+            ),
+            const FlutterAnimatedSwitcher(
+              switcherType: SwitcherType.styleThree,
+            ),
+            const FlutterAnimatedSwitcher(
+              switcherType: SwitcherType.styleFour,
+            ),
+            FlutterAnimatedSwitcher(
+              switcherType: SwitcherType.styleFive,
+              onTap: (() {
+                // ignore: avoid_print
+                print("Tapped");
+              }),
+              onStateChanged: ((state) {
+                // ignore: avoid_print
+                print("current state is $state");
+              }),
+            ),
+          ],
         ),
       ),
     );

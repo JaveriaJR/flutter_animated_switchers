@@ -1,7 +1,7 @@
 name: flutter_animated_switchers
-description: A new Flutter package project.
+description: A flutter package for animated switchers
 version: 0.0.1
-homepage:
+homepage: 
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
