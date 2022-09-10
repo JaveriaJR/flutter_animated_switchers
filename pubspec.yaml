@@ -1,6 +1,6 @@
 name: flutter_animated_switchers
-description: A flutter package for animated switchers
-version: 0.0.1
+description: A flutter package to support different animated switchers for your flutter application with notifying state change values
+version: 0.0.2
 homepage: https://github.com/JaveriaJR/flutter_animated_switchers/tree/main
 
 environment:

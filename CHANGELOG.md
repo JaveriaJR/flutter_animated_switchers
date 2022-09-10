@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2
 
 * Allows four different styles of animated switchers
