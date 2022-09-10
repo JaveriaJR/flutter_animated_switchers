@@ -50,6 +50,11 @@ FlutterAnimatedSwitcher(
  
 ## Example Images:
  
+<video width="190"  autoplay>
+  <source src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styleone.mp4?raw=true" type="video/mp4"> 
+Your browser does not support the video tag.
+</video>
+
  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styleone.mp4?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/styletwo.mp4?raw=true" width="180" />  <img src="https://github.com/JaveriaJR/flutter_animated_switchers/blob/main/stylethree.mp4?raw=true" width="180" />  <img src="https://imgur.com/5Yu89Sb.png" width="180" />  <img src="https://imgur.com/Vh6Uf0N.png" width="180" />
  
 
